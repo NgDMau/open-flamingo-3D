@@ -144,3 +144,10 @@ wandb
 cache/
 
 __*.sh
+
+modifications/fewer_facesv2_0
+modifications/fewer_facesv2_imgs
+modifications/laion-art
+modifications/laion-high-resolution
+modifications/mmc4_shards
+modifications/status_report
